@@ -1,16 +1,40 @@
-### Hi there 👋
+### 👋 Hi there I'm Oren Kaizer
 
-<!--
-**orenKingK/orenKingK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/oren-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+I am a full stack developer. For me BACKEND > FRONTEND.
 
-Here are some ideas to get you started:
+I Love to program with TypeScript, especially backend development!:)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+**Back-end**
+
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/nestjs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/flask.png"></code>
+
+**Front-end**
+
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/reactjs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/angular.png"></code>
+
+**Languages**
+
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/csharp.png"></code>
+
+**Databases**
+
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/redis.png"></code>
+
+**Tools**
+
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/vscode.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/bitbucket.png"></code>
