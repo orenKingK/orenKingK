@@ -21,6 +21,7 @@ I Love to program with TypeScript, for backend development!!
 <code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/angular.png"></code>
 
 **Languages**
+
 <code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/python.png"></code>
