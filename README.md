@@ -1,9 +1,9 @@
 ### 👋 Hi there I'm Oren Kaizer
 
 <a href="https://www.linkedin.com/in/oren-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-I am a full stack developer. For me, BACKEND > FRONTEND.
+I am a full stack developer. For me BACKEND > FRONTEND.
 
-I Love to program with TypeScript, for backend development!!
+I Love to program with TypeScript, especially backend development!:)
 
 ## Tech stack
 
