@@ -21,6 +21,10 @@ I Love to program with TypeScript, for backend development!!
 <code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/angular.png"></code>
 
 **Languages**
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/csharp.png"></code>
 
 **Databases**
 
@@ -32,3 +36,4 @@ I Love to program with TypeScript, for backend development!!
 
 <code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/vscode.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/bitbucket.png"></code>
