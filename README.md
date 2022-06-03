@@ -9,16 +9,16 @@ I Love to program with TypeScript, especially backend development!:)
 
 **Back-end**
 
-<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/nestjs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/flask.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/nestjs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/flask.png"></code>
 
 **Front-end**
 
-<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/reactjs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/angular.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/reactjs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/angular.png"></code>
 
 **Languages**
 
