@@ -10,7 +10,7 @@ I Love to program with TypeScript, for backend development!!
 **Back-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/nest.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/nestjs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/orenKingK/orenKingK/master/images/flask.png"></code>
 
 **Front-end**
